@@ -1,1 +1,0 @@
-ALTER TABLE public.test_dbscript ADD column1 varchar NULL;
